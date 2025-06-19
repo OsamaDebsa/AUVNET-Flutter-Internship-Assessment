@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "659091988623",
+    "project_id": "nawel-87bb7",
+    "storage_bucket": "nawel-87bb7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659091988623:android:f2e2e13e41cf3125c090fa",
+        "android_client_info": {
+          "package_name": "com.example.auvnet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl30sN90zBFgg7vfCNyejSAFXh6xmlnE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
